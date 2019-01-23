@@ -1,0 +1,3102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='-3888753' action='modify' visible='true' lat='-27.47711601869' lon='152.86846457689'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='501' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888754' action='modify' visible='true' lat='-27.47754486377' lon='152.86819582942'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='506' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888755' action='modify' visible='true' lat='-27.48504343513' lon='152.85163620017'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='190' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Pacey Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888756' action='modify' visible='true' lat='-27.47742663419' lon='152.86804403613'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='508' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888757' action='modify' visible='true' lat='-27.47132459078' lon='152.84618667459'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='770' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888758' action='modify' visible='true' lat='-27.4891304912' lon='152.87784832914'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='360' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888759' action='modify' visible='true' lat='-27.47774017718' lon='152.86728601494'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='516' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888760' action='modify' visible='true' lat='-27.46898888695' lon='152.86509741981'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='519' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888761' action='modify' visible='true' lat='-27.47477389612' lon='152.86856351671'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='525' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888762' action='modify' visible='true' lat='-27.49568459379' lon='152.86776482319'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='604' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Haven Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888763' action='modify' visible='true' lat='-27.47679488835' lon='152.86646705299'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='525A' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888764' action='modify' visible='true' lat='-27.49648085112' lon='152.86577705123'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='608' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Haven Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888765' action='modify' visible='true' lat='-27.4776594672' lon='152.86559205942'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='528' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888766' action='modify' visible='true' lat='-27.476241527' lon='152.86605231016'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='529' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888767' action='modify' visible='true' lat='-27.4759039351' lon='152.86563994145'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='545' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888768' action='modify' visible='true' lat='-27.47471245942' lon='152.86539633467'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='561' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888769' action='modify' visible='true' lat='-27.47438275099' lon='152.86364478538'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='565' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888770' action='modify' visible='true' lat='-27.49701290336' lon='152.87067721979'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='588' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Haven Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888771' action='modify' visible='true' lat='-27.47388264428' lon='152.86330171327'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='573' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888772' action='modify' visible='true' lat='-27.49743030605' lon='152.86812355701'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='600' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Haven Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888773' action='modify' visible='true' lat='-27.47416999966' lon='152.86256306834'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='575' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888774' action='modify' visible='true' lat='-27.49563469843' lon='152.87313001689'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='544' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Haven Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888775' action='modify' visible='true' lat='-27.48091758954' lon='152.85534413372'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='217' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Pacey Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888776' action='modify' visible='true' lat='-27.47756158943' lon='152.87853504735'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='461' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888777' action='modify' visible='true' lat='-27.47910989731' lon='152.86699942976'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='15' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Pacey Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888778' action='modify' visible='true' lat='-27.48029577439' lon='152.85424828049'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='209' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Pacey Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888779' action='modify' visible='true' lat='-27.48110057008' lon='152.87300121191'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='462' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888780' action='modify' visible='true' lat='-27.47901716043' lon='152.86556895236'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='21' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Pacey Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888781' action='modify' visible='true' lat='-27.48061209409' lon='152.86628105563'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='34' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Pacey Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888782' action='modify' visible='true' lat='-27.47781949122' lon='152.87474447824'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='463' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888783' action='modify' visible='true' lat='-27.49646695186' lon='152.87378914277'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='528' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Haven Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888784' action='modify' visible='true' lat='-27.48430783068' lon='152.86708874583'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='38' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Pacey Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888785' action='modify' visible='true' lat='-27.47954284422' lon='152.87434886981'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='464' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888786' action='modify' visible='true' lat='-27.48395811586' lon='152.86598821198'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='40' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Pacey Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888787' action='modify' visible='true' lat='-27.47844638034' lon='152.85781193303'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='249' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Pacey Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888788' action='modify' visible='true' lat='-27.49733967143' lon='152.87639133325'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='516' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Haven Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888789' action='modify' visible='true' lat='-27.48113150464' lon='152.87158918559'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='466' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888790' action='modify' visible='true' lat='-27.49083989324' lon='152.87925025646'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='354' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888791' action='modify' visible='true' lat='-27.48234666765' lon='152.86565743133'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='42' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Pacey Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888792' action='modify' visible='true' lat='-27.47938727091' lon='152.85772002867'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='241' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Pacey Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888793' action='modify' visible='true' lat='-27.48782761014' lon='152.88122482083'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='469A' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Haven Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888794' action='modify' visible='true' lat='-27.46748080692' lon='152.82985679119'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Gillies Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888795' action='modify' visible='true' lat='-27.47937826557' lon='152.87099389791'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='472' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888796' action='modify' visible='true' lat='-27.48025065991' lon='152.85749935356'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='233' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Pacey Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888797' action='modify' visible='true' lat='-27.49518694008' lon='152.88156103186'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='420' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Haven Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888798' action='modify' visible='true' lat='-27.48225932352' lon='152.86458727214'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='44' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Pacey Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888799' action='modify' visible='true' lat='-27.49995114234' lon='152.8810676908'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='400' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Haven Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888800' action='modify' visible='true' lat='-27.48450541731' lon='152.86424551166'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='56' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Pacey Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888801' action='modify' visible='true' lat='-27.48186290354' lon='152.85664992722'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='225' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Pacey Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888802' action='modify' visible='true' lat='-27.47986552174' lon='152.86831210702'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='482' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888803' action='modify' visible='true' lat='-27.49703359921' lon='152.88315479724'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='388' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Haven Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888804' action='modify' visible='true' lat='-27.48027500831' lon='152.86295765706'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='57' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Pacey Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888805' action='modify' visible='true' lat='-27.47653287007' lon='152.8420348488'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='810' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888806' action='modify' visible='true' lat='-27.50002219386' lon='152.88302934042'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='376' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Haven Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888807' action='modify' visible='true' lat='-27.48511428902' lon='152.86334980077'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='68' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Pacey Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888808' action='modify' visible='true' lat='-27.47551066932' lon='152.84222528442'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='804' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888809' action='modify' visible='true' lat='-27.47827388698' lon='152.87129986445'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='483' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888810' action='modify' visible='true' lat='-27.48199776746' lon='152.86036707489'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='69' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Pacey Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888811' action='modify' visible='true' lat='-27.47894482783' lon='152.86032264084'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='265' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Pacey Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888812' action='modify' visible='true' lat='-27.49772730952' lon='152.8841303263'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='366' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Haven Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888813' action='modify' visible='true' lat='-27.46662681956' lon='152.85487323257'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='40' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Galvin Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888814' action='modify' visible='true' lat='-27.47206883213' lon='152.84756016664'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='768' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888815' action='modify' visible='true' lat='-27.47736467364' lon='152.85872219195'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='257' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Pacey Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888816' action='modify' visible='true' lat='-27.4857848733' lon='152.86232959235'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='80' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Pacey Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888817' action='modify' visible='true' lat='-27.47890214139' lon='152.86993798604'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='488' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888818' action='modify' visible='true' lat='-27.46624480466' lon='152.85157899209'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='24' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Galvin Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888819' action='modify' visible='true' lat='-27.48349200285' lon='152.86110718721'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='93' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Pacey Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888820' action='modify' visible='true' lat='-27.48328044184' lon='152.85927351989'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='125' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Pacey Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888821' action='modify' visible='true' lat='-27.47921607759' lon='152.86881940157'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='490' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888822' action='modify' visible='true' lat='-27.4837998696' lon='152.85781184114'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='141' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Pacey Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888823' action='modify' visible='true' lat='-27.47747555374' lon='152.84098980614'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='830' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888824' action='modify' visible='true' lat='-27.47844234233' lon='152.86877831061'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='496' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888825' action='modify' visible='true' lat='-27.48555254015' lon='152.85788409504'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='156' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Pacey Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888826' action='modify' visible='true' lat='-27.47703968832' lon='152.8415480607'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='820' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888827' action='modify' visible='true' lat='-27.49158286961' lon='152.87533196271'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='561' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Haven Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888828' action='modify' visible='true' lat='-27.47216645414' lon='152.85416261908'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='679' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888829' action='modify' visible='true' lat='-27.49051303644' lon='152.86283210841'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='742' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Haven Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888830' action='modify' visible='true' lat='-27.48817373134' lon='152.86441604306'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='703' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Haven Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888831' action='modify' visible='true' lat='-27.49127177459' lon='152.86331169792'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='700' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Haven Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888832' action='modify' visible='true' lat='-27.47196463069' lon='152.85300051088'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='695' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888833' action='modify' visible='true' lat='-27.48837460636' lon='152.86600412465'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='693' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Haven Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888834' action='modify' visible='true' lat='-27.46968257421' lon='152.85116274667'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='727' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888835' action='modify' visible='true' lat='-27.48988546755' lon='152.86758642374'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='685' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Haven Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888836' action='modify' visible='true' lat='-27.4724007871' lon='152.85005137366'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='756' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888837' action='modify' visible='true' lat='-27.490819292' lon='152.86866362179'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='655' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Haven Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888838' action='modify' visible='true' lat='-27.49567154496' lon='152.87156887646'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='39' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Fig Tree Lane' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888839' action='modify' visible='true' lat='-27.47230783752' lon='152.84546251804'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='772' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888840' action='modify' visible='true' lat='-27.49329257203' lon='152.86712462792'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='636' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Haven Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888841' action='modify' visible='true' lat='-27.47562933' lon='152.84353480271'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='802' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888842' action='modify' visible='true' lat='-27.49409857591' lon='152.86588958024'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='630' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Haven Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888843' action='modify' visible='true' lat='-27.46788749429' lon='152.84210183124'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='807' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888844' action='modify' visible='true' lat='-27.49350810701' lon='152.87012967727'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='619' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Haven Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888845' action='modify' visible='true' lat='-27.46167157183' lon='152.84196009142'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='807A' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888846' action='modify' visible='true' lat='-27.46978149098' lon='152.83059455497'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='947' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888847' action='modify' visible='true' lat='-27.49422107362' lon='152.86890964105'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='612' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Haven Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888848' action='modify' visible='true' lat='-27.4689964788' lon='152.82938644998'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='967' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888849' action='modify' visible='true' lat='-27.473036542' lon='152.84118079972'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='840' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888850' action='modify' visible='true' lat='-27.4918250733' lon='152.87173734059'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='587' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Haven Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888851' action='modify' visible='true' lat='-27.47289571513' lon='152.84222141767'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='842' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888852' action='modify' visible='true' lat='-27.4722345855' lon='152.84125796345'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='849' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888853' action='modify' visible='true' lat='-27.46287981009' lon='152.84601105999'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='791' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888854' action='modify' visible='true' lat='-27.47104816356' lon='152.8402609658'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='853' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888855' action='modify' visible='true' lat='-27.46887732979' lon='152.83817716521'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='861' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888856' action='modify' visible='true' lat='-27.49418365634' lon='152.87157627238'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='582' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Haven Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888857' action='modify' visible='true' lat='-27.47042191857' lon='152.83770618081'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='863' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888858' action='modify' visible='true' lat='-27.46728111787' lon='152.84772474677'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='793' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888859' action='modify' visible='true' lat='-27.49165328581' lon='152.87283522923'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='573' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Haven Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888860' action='modify' visible='true' lat='-27.46494800472' lon='152.83671585949'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='865' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888861' action='modify' visible='true' lat='-27.47171399107' lon='152.8391758753'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='857' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888862' action='modify' visible='true' lat='-27.47504741397' lon='152.86163743936'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='576' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888863' action='modify' visible='true' lat='-27.47287929797' lon='152.865643509'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='577' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888864' action='modify' visible='true' lat='-27.47149300464' lon='152.86728783154'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='579' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888865' action='modify' visible='true' lat='-27.4833434022' lon='152.87711276871'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='17' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Carbine Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888866' action='modify' visible='true' lat='-27.49262568766' lon='152.87048726497'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='621' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Haven Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888867' action='modify' visible='true' lat='-27.47244462578' lon='152.86362576362'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='581' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888868' action='modify' visible='true' lat='-27.47159928808' lon='152.8628408581'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='585' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888869' action='modify' visible='true' lat='-27.47146522283' lon='152.8614729835'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='589' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888870' action='modify' visible='true' lat='-27.47760470065' lon='152.84981303654'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='666' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888871' action='modify' visible='true' lat='-27.47432970157' lon='152.86083323999'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='590' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888872' action='modify' visible='true' lat='-27.46948239626' lon='152.86146017938'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='593' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888873' action='modify' visible='true' lat='-27.48641893222' lon='152.8520588144'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='188' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Pacey Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888874' action='modify' visible='true' lat='-27.47394783239' lon='152.85985695985'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='598' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888875' action='modify' visible='true' lat='-27.47087464123' lon='152.85493993649'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='607F' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888876' action='modify' visible='true' lat='-27.47115491449' lon='152.83081654709'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='927' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888877' action='modify' visible='true' lat='-27.47165564033' lon='152.8600459969'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='603' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888878' action='modify' visible='true' lat='-27.472037056' lon='152.858600239'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='605' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888879' action='modify' visible='true' lat='-27.48829397282' lon='152.85233813787'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='178' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Pacey Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888880' action='modify' visible='true' lat='-27.47247315024' lon='152.85705105783'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='609' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888881' action='modify' visible='true' lat='-27.47373133446' lon='152.85709629834'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='615' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888882' action='modify' visible='true' lat='-27.47333153374' lon='152.85591640896'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='641' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888883' action='modify' visible='true' lat='-27.47214735377' lon='152.8311844732'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='901' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888884' action='modify' visible='true' lat='-27.47488174346' lon='152.84936448016'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='674' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888885' action='modify' visible='true' lat='-27.47294327638' lon='152.85378537018'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='678' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888886' action='modify' visible='true' lat='-27.48099723483' lon='152.8380617756'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='848' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888887' action='modify' visible='true' lat='-27.47283094395' lon='152.82742269388'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='918' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888888' action='modify' visible='true' lat='-27.48109041117' lon='152.83706264873'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='854' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888889' action='modify' visible='true' lat='-27.47029238211' lon='152.83275927351'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='925' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888890' action='modify' visible='true' lat='-27.47251308685' lon='152.82934135705'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='928' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888891' action='modify' visible='true' lat='-27.48096361039' lon='152.83617529458'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='856' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888892' action='modify' visible='true' lat='-27.4614515438' lon='152.83043159363'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='127' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Gillies Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888893' action='modify' visible='true' lat='-27.47126228126' lon='152.82810885234'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='930' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888894' action='modify' visible='true' lat='-27.48046643471' lon='152.83540459792'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='858' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888895' action='modify' visible='true' lat='-27.45909956023' lon='152.82916375355'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='120' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Gillies Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888896' action='modify' visible='true' lat='-27.48355778511' lon='152.84162983873'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='844' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888897' action='modify' visible='true' lat='-27.46912969247' lon='152.82578190774'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='970' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888898' action='modify' visible='true' lat='-27.47978056749' lon='152.8409068334'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='850' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888899' action='modify' visible='true' lat='-27.46142662077' lon='152.8327413808'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='121' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Gillies Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888900' action='modify' visible='true' lat='-27.46738425082' lon='152.82558597201'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='980' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888901' action='modify' visible='true' lat='-27.46565172101' lon='152.82431526272'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='1000' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888902' action='modify' visible='true' lat='-27.46393377075' lon='152.83190869176'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='101' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Gillies Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888903' action='modify' visible='true' lat='-27.47889227072' lon='152.83922507287'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='846' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888904' action='modify' visible='true' lat='-27.46375638705' lon='152.82424246183'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='1050' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888905' action='modify' visible='true' lat='-27.47932917178' lon='152.83808952069'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='852' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888906' action='modify' visible='true' lat='-27.46177975596' lon='152.8289917192'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='118' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Gillies Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888907' action='modify' visible='true' lat='-27.4661866628' lon='152.82832451375'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='1057' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888908' action='modify' visible='true' lat='-27.47095521195' lon='152.85308474611'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='33' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Galvin Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888909' action='modify' visible='true' lat='-27.45868352731' lon='152.82471230287'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='1207' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888910' action='modify' visible='true' lat='-27.46549705189' lon='152.82725831393'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='1073' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888911' action='modify' visible='true' lat='-27.46463434017' lon='152.82624330753'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='1083' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888912' action='modify' visible='true' lat='-27.46277884457' lon='152.82154964388'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='1110' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888913' action='modify' visible='true' lat='-27.46195474598' lon='152.82573651169'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='1125' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888914' action='modify' visible='true' lat='-27.46075907344' lon='152.82674377707'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='1143' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888915' action='modify' visible='true' lat='-27.48557417446' lon='152.82786251642'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='1401' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Grandview Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888916' action='modify' visible='true' lat='-27.47124663173' lon='152.83670941096'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='869' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888917' action='modify' visible='true' lat='-27.47373999149' lon='152.83664642163'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='870' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888918' action='modify' visible='true' lat='-27.45479266297' lon='152.86279901383'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='693K' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Gold Creek Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888919' action='modify' visible='true' lat='-27.47054962682' lon='152.83506184069'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='871' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888920' action='modify' visible='true' lat='-27.4737736222' lon='152.83477312279'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='872' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888921' action='modify' visible='true' lat='-27.4755253988' lon='152.83491768362'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='874' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888922' action='modify' visible='true' lat='-27.48515099927' lon='152.89081447804'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='207' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888923' action='modify' visible='true' lat='-27.47692802848' lon='152.83389356163'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='876' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888924' action='modify' visible='true' lat='-27.47938342089' lon='152.83311248216'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='878' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888925' action='modify' visible='true' lat='-27.48010137932' lon='152.8340652358'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='878A' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888926' action='modify' visible='true' lat='-27.47487148123' lon='152.8509861311'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='672' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888927' action='modify' visible='true' lat='-27.4733538321' lon='152.83304089629'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='880' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888928' action='modify' visible='true' lat='-27.46360286368' lon='152.82884336732'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='1119' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888929' action='modify' visible='true' lat='-27.4780204423' lon='152.8312169218'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='886' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888930' action='modify' visible='true' lat='-27.48584735397' lon='152.88072737741'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='351' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888931' action='modify' visible='true' lat='-27.47464038653' lon='152.83085474803'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='900' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888932' action='modify' visible='true' lat='-27.4834020289' lon='152.87425085545'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='420' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888933' action='modify' visible='true' lat='-27.47770002348' lon='152.82839685941'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='902' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888934' action='modify' visible='true' lat='-27.48682267477' lon='152.89193071763'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='195' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888935' action='modify' visible='true' lat='-27.47666554426' lon='152.82667537652'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='906' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888936' action='modify' visible='true' lat='-27.47341429285' lon='152.82507706869'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='910' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888937' action='modify' visible='true' lat='-27.47334607228' lon='152.82574966878'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='914' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888938' action='modify' visible='true' lat='-27.48187769088' lon='152.88117451697'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='11' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Smith Lane' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888939' action='modify' visible='true' lat='-27.47650274068' lon='152.81802013342'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='910' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='addr:unit' v='8' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888940' action='modify' visible='true' lat='-27.47308219936' lon='152.81841280959'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='910' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='addr:unit' v='9' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888941' action='modify' visible='true' lat='-27.48066178176' lon='152.86955207497'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='480' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888942' action='modify' visible='true' lat='-27.48278679509' lon='152.87864935073'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='39' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Smith Lane' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888943' action='modify' visible='true' lat='-27.46946759117' lon='152.81848745887'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='910' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='addr:unit' v='6' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888944' action='modify' visible='true' lat='-27.4838289242' lon='152.87962161435'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='17' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Smith Lane' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888945' action='modify' visible='true' lat='-27.48039112294' lon='152.87139518685'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='470' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888946' action='modify' visible='true' lat='-27.4755531585' lon='152.82036706203'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='910' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='addr:unit' v='7' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888947' action='modify' visible='true' lat='-27.46956492434' lon='152.82341158857'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='914' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='addr:unit' v='3' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888948' action='modify' visible='true' lat='-27.4832070472' lon='152.85401597898'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='171' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Pacey Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888949' action='modify' visible='true' lat='-27.46848025948' lon='152.82217011142'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='914' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='addr:unit' v='4' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888950' action='modify' visible='true' lat='-27.47251196252' lon='152.82429972816'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='914' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='addr:unit' v='1' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888951' action='modify' visible='true' lat='-27.47106267814' lon='152.82514009444'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='914' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='addr:unit' v='2' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888952' action='modify' visible='true' lat='-27.47095418128' lon='152.82251503135'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='914' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='addr:unit' v='7' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888953' action='modify' visible='true' lat='-27.46803265819' lon='152.81971671512'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='914' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='addr:unit' v='5' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888954' action='modify' visible='true' lat='-27.46939768119' lon='152.8205513344'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='914' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='addr:unit' v='6' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888955' action='modify' visible='true' lat='-27.50006484591' lon='152.84814410388'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='1218' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Grandview Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888956' action='modify' visible='true' lat='-27.48243658346' lon='152.85059523938'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='201' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Pacey Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888957' action='modify' visible='true' lat='-27.46294599956' lon='152.8540740521'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='34' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Galvin Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888958' action='modify' visible='true' lat='-27.47472969717' lon='152.82734382122'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='906' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='addr:unit' v='1' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888959' action='modify' visible='true' lat='-27.47584741791' lon='152.82637522277'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='906' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='addr:unit' v='2' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888960' action='modify' visible='true' lat='-27.47788362327' lon='152.82127003013'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='906' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='addr:unit' v='5' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888961' action='modify' visible='true' lat='-27.47452426169' lon='152.82491842632'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='910' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='addr:unit' v='1' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888962' action='modify' visible='true' lat='-27.47837332551' lon='152.82548931058'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='906' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='addr:unit' v='3' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888963' action='modify' visible='true' lat='-27.47663198141' lon='152.82424369577'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='906' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='addr:unit' v='4' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888964' action='modify' visible='true' lat='-27.47256383698' lon='152.82072981392'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='910' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='addr:unit' v='4' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888965' action='modify' visible='true' lat='-27.4715343345' lon='152.81956335244'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='910' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='addr:unit' v='5' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888966' action='modify' visible='true' lat='-27.48190953607' lon='152.86763895322'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='32' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Pacey Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888967' action='modify' visible='true' lat='-27.48661646545' lon='152.84919991087'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='192' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Pacey Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888968' action='modify' visible='true' lat='-27.47459993835' lon='152.8232924237'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='910' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='addr:unit' v='2' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888969' action='modify' visible='true' lat='-27.48520740549' lon='152.84789304158'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='196' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Pacey Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888970' action='modify' visible='true' lat='-27.47434479045' lon='152.82193204385'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='910' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='addr:unit' v='3' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888971' action='modify' visible='true' lat='-27.47263592057' lon='152.86764052102'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='515A' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888972' action='modify' visible='true' lat='-27.46477999105' lon='152.8520653463'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='28' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Galvin Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888973' action='modify' visible='true' lat='-27.47327469625' lon='152.86807023813'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='515' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888974' action='modify' visible='true' lat='-27.47361034389' lon='152.84541869537'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='778' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888975' action='modify' visible='true' lat='-27.47463901566' lon='152.84422641555'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='800A' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888976' action='modify' visible='true' lat='-27.49180808836' lon='152.88054946281'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='469' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Haven Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888977' action='modify' visible='true' lat='-27.49061818816' lon='152.88405323851'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='63A' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Haven Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888978' action='modify' visible='true' lat='-27.47061125443' lon='152.842359794'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='809' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888979' action='modify' visible='true' lat='-27.46957127818' lon='152.84376228624'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='799' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888980' action='modify' visible='true' lat='-27.48709674192' lon='152.86793755762'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='110' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Carbine Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888981' action='modify' visible='true' lat='-27.48610890669' lon='152.87082763146'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='125' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Carbine Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888982' action='modify' visible='true' lat='-27.47020013955' lon='152.85613718341'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='607A' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888983' action='modify' visible='true' lat='-27.48955994855' lon='152.88097170191'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='302' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888984' action='modify' visible='true' lat='-27.48746727306' lon='152.87826257962'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='366' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888985' action='modify' visible='true' lat='-27.48963405887' lon='152.85411470982'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='45' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Pacey Road South' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888986' action='modify' visible='true' lat='-27.46755044403' lon='152.8509998243'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='20' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Galvin Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888987' action='modify' visible='true' lat='-27.46298253157' lon='152.85156686437'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='32' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Galvin Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888988' action='modify' visible='true' lat='-27.46497379085' lon='152.85443503094'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='36' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Galvin Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888989' action='modify' visible='true' lat='-27.48312343078' lon='152.8478450885'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='654' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888990' action='modify' visible='true' lat='-27.48386320604' lon='152.88724736784'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='293' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888991' action='modify' visible='true' lat='-27.47623235231' lon='152.85191289904'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='664' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888992' action='modify' visible='true' lat='-27.48716306061' lon='152.88696916566'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='283' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888993' action='modify' visible='true' lat='-27.47529824891' lon='152.85108525852'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='668' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888994' action='modify' visible='true' lat='-27.49236974177' lon='152.86349300122'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='680' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Haven Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888995' action='modify' visible='true' lat='-27.49493426905' lon='152.88734967961'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='84' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Haven Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888996' action='modify' visible='true' lat='-27.49470990051' lon='152.8859897797'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='98' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Haven Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888997' action='modify' visible='true' lat='-27.48234220356' lon='152.84543373729'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='650' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888998' action='modify' visible='true' lat='-27.48184524183' lon='152.84668295029'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='652' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3888999' action='modify' visible='true' lat='-27.46760200152' lon='152.85738810638'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='607E' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889000' action='modify' visible='true' lat='-27.46718909296' lon='152.8599990085'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='607C' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889001' action='modify' visible='true' lat='-27.46884377602' lon='152.85842678526'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='607B' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889002' action='modify' visible='true' lat='-27.47035035454' lon='152.85841716772'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='607' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889003' action='modify' visible='true' lat='-27.48933187074' lon='152.8623352034'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='741' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Haven Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889004' action='modify' visible='true' lat='-27.46885981824' lon='152.85471848677'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='607D' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889005' action='modify' visible='true' lat='-27.47361984363' lon='152.84797920166'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='766' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889006' action='modify' visible='true' lat='-27.48635402777' lon='152.85558980238'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='166' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Pacey Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889007' action='modify' visible='true' lat='-27.48364024316' lon='152.88617215327'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='295' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889008' action='modify' visible='true' lat='-27.48391569156' lon='152.85081796916'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='210' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Pacey Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889009' action='modify' visible='true' lat='-27.48543139722' lon='152.86922525566'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='133' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Carbine Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889010' action='modify' visible='true' lat='-27.48782970836' lon='152.87346320677'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='68' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Carbine Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889011' action='modify' visible='true' lat='-27.47710853108' lon='152.87284363277'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='47' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Kittani Street' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889012' action='modify' visible='true' lat='-27.48851049045' lon='152.87225979264'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='78' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Carbine Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889013' action='modify' visible='true' lat='-27.48664917658' lon='152.87482073823'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='50' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Carbine Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889014' action='modify' visible='true' lat='-27.47285007791' lon='152.87288779372'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='90' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Kittani Street' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889015' action='modify' visible='true' lat='-27.47412366977' lon='152.84484670032'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='800' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889016' action='modify' visible='true' lat='-27.47550664646' lon='152.87121522091'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='64' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Kittani Street' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889017' action='modify' visible='true' lat='-27.48437779851' lon='152.87308774866'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='57' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Carbine Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889018' action='modify' visible='true' lat='-27.47076723206' lon='152.87092285277'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='122' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Kittani Street' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889019' action='modify' visible='true' lat='-27.48665805913' lon='152.87596938837'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='34' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Carbine Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889020' action='modify' visible='true' lat='-27.4753162748' lon='152.87551455613'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='109' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Kittani Street' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889021' action='modify' visible='true' lat='-27.49095219496' lon='152.88283463579'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='65' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Haven Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889022' action='modify' visible='true' lat='-27.46855569747' lon='152.87195365971'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='693H' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Gold Creek Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889023' action='modify' visible='true' lat='-27.48198278931' lon='152.85283760188'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='185' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Pacey Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889024' action='modify' visible='true' lat='-27.49305543898' lon='152.88251635009'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='439' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Haven Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889025' action='modify' visible='true' lat='-27.49016262276' lon='152.85811020388'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='1005' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Grandview Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889026' action='modify' visible='true' lat='-27.48727827854' lon='152.86069751397'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='146' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Pacey Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889027' action='modify' visible='true' lat='-27.49147613149' lon='152.88681594656'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='24' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Haven Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889028' action='modify' visible='true' lat='-27.49226517143' lon='152.88781585214'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='22' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Haven Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889029' action='modify' visible='true' lat='-27.49445092288' lon='152.8795254184'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='430' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Haven Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889030' action='modify' visible='true' lat='-27.48525738075' lon='152.87189233934'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='115' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Carbine Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889031' action='modify' visible='true' lat='-27.488931372' lon='152.87098560133'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='88' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Carbine Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889032' action='modify' visible='true' lat='-27.47663034344' lon='152.8697441837'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='28' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Kittani Street' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889033' action='modify' visible='true' lat='-27.48844583452' lon='152.86971034129'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='98' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Carbine Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889034' action='modify' visible='true' lat='-27.49978849834' lon='152.87906048357'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='450' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Haven Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889035' action='modify' visible='true' lat='-27.48961681031' lon='152.88679830975'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='272' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889036' action='modify' visible='true' lat='-27.49315606715' lon='152.88392901548'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='67' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Haven Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889037' action='modify' visible='true' lat='-27.48631524883' lon='152.88597747102'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='291' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889038' action='modify' visible='true' lat='-27.49423843793' lon='152.86139417527'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='1001' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Grandview Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889039' action='modify' visible='true' lat='-27.49537135078' lon='152.85851971668'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='1120' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Grandview Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889040' action='modify' visible='true' lat='-27.48859460137' lon='152.88376320225'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='300' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889041' action='modify' visible='true' lat='-27.47594630977' lon='152.8541015664'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='636' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889042' action='modify' visible='true' lat='-27.48311666571' lon='152.88274483895'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='301' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889043' action='modify' visible='true' lat='-27.48993134293' lon='152.88536280342'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='63' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Haven Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889044' action='modify' visible='true' lat='-27.48748757457' lon='152.87980774825'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='350' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889045' action='modify' visible='true' lat='-27.50048799542' lon='152.86559380049'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='821' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Grandview Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889046' action='modify' visible='true' lat='-27.4930680338' lon='152.88626693466'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='54' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Haven Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889047' action='modify' visible='true' lat='-27.48501641054' lon='152.8785232055'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='359B' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889048' action='modify' visible='true' lat='-27.49160033943' lon='152.86549111007'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='650' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Haven Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889049' action='modify' visible='true' lat='-27.48657780381' lon='152.87719487017'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='380' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889050' action='modify' visible='true' lat='-27.49672358009' lon='152.86241590992'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='941' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Grandview Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889051' action='modify' visible='true' lat='-27.49154863143' lon='152.86997941563'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='625' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Haven Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889052' action='modify' visible='true' lat='-27.49276612187' lon='152.86568194025'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='646' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Haven Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889053' action='modify' visible='true' lat='-27.49238887941' lon='152.88651049664'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='46' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Haven Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889054' action='modify' visible='true' lat='-27.48319202512' lon='152.87594644587'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='416' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889055' action='modify' visible='true' lat='-27.49926346297' lon='152.86542439178'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='881' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Grandview Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889056' action='modify' visible='true' lat='-27.47767215717' lon='152.86314206536'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='540' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889057' action='modify' visible='true' lat='-27.48272895814' lon='152.87531450021'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='426' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889058' action='modify' visible='true' lat='-27.47707751788' lon='152.86189524505'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='546' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889059' action='modify' visible='true' lat='-27.47685900237' lon='152.86535819738'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='532' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889060' action='modify' visible='true' lat='-27.48042239625' lon='152.8786775516'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='435' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889061' action='modify' visible='true' lat='-27.4964040872' lon='152.87485536457'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='524' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Haven Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889062' action='modify' visible='true' lat='-27.49485794978' lon='152.8761541716'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='518' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Haven Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889063' action='modify' visible='true' lat='-27.48214913055' lon='152.87485416911'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='442' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889064' action='modify' visible='true' lat='-27.48196718138' lon='152.87341666179'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='448' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889065' action='modify' visible='true' lat='-27.48036910046' lon='152.87608008676'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='453' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889066' action='modify' visible='true' lat='-27.48396782639' lon='152.8686939186'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='36' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Pacey Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889067' action='modify' visible='true' lat='-27.48313690282' lon='152.87072997287'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='456' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889068' action='modify' visible='true' lat='-27.47935999532' lon='152.87653236964'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='457' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889069' action='modify' visible='true' lat='-27.49091973263' lon='152.88614421906'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='25' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Haven Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889070' action='modify' visible='true' lat='-27.47613942764' lon='152.86090333897'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='558' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889071' action='modify' visible='true' lat='-27.47846552154' lon='152.8780884529'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='459' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889072' action='modify' visible='true' lat='-27.46937713789' lon='152.84979878631'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='787' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889073' action='modify' visible='true' lat='-27.47800836716' lon='152.85365266198'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='638' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889074' action='modify' visible='true' lat='-27.47673269986' lon='152.8559747418'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='632' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889075' action='modify' visible='true' lat='-27.47470952004' lon='152.85940718963'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='618' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889076' action='modify' visible='true' lat='-27.47160404917' lon='152.84936397764'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='760' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889077' action='modify' visible='true' lat='-27.47599575296' lon='152.85764836894'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='628' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889078' action='modify' visible='true' lat='-27.49038555349' lon='152.88973846477'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='220' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889079' action='modify' visible='true' lat='-27.48847750505' lon='152.89032214554'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='221' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889080' action='modify' visible='true' lat='-27.49943805705' lon='152.8576162987'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='820' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Grandview Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889081' action='modify' visible='true' lat='-27.4953480877' lon='152.88522295105'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='114' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Haven Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889082' action='modify' visible='true' lat='-27.48442498133' lon='152.85650782638'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='171A' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Pacey Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889083' action='modify' visible='true' lat='-27.48873926514' lon='152.88945928636'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='225' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889084' action='modify' visible='true' lat='-27.48862440477' lon='152.88908767669'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='229' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889085' action='modify' visible='true' lat='-27.47322018762' lon='152.85510326743'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='657' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889086' action='modify' visible='true' lat='-27.4876487771' lon='152.8885520274'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='231' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889087' action='modify' visible='true' lat='-27.49751947553' lon='152.85659583653'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='1000' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Grandview Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889088' action='modify' visible='true' lat='-27.48553313' lon='152.88862056353'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='249' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889089' action='modify' visible='true' lat='-27.49668740237' lon='152.85768220145'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='1060' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Grandview Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889090' action='modify' visible='true' lat='-27.48323798372' lon='152.88866083249'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='269' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889091' action='modify' visible='true' lat='-27.49921306935' lon='152.86154132563'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='880' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Grandview Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889092' action='modify' visible='true' lat='-27.49257881298' lon='152.88550077915'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='78' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Haven Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889093' action='modify' visible='true' lat='-27.48912538237' lon='152.88742129141'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='269A' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Upper Brookfield Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3889094' action='modify' visible='true' lat='-27.49834340737' lon='152.8561994229'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='940' />
+    <tag k='addr:postcode' v='4069' />
+    <tag k='addr:street' v='Grandview Road' />
+    <tag k='addr:suburb' v='Upper Brookfield' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+</osm>

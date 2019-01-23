@@ -1,0 +1,660 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='-3780682' action='modify' visible='true' lat='-27.34068016909' lon='153.04574487972'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='44' />
+    <tag k='addr:postcode' v='4018' />
+    <tag k='addr:street' v='Jagera Circuit' />
+    <tag k='addr:suburb' v='Taigum' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3780683' action='modify' visible='true' lat='-27.34081564625' lon='153.045020268'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='12' />
+    <tag k='addr:postcode' v='4018' />
+    <tag k='addr:street' v='Ginkgo Close' />
+    <tag k='addr:suburb' v='Taigum' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3780684' action='modify' visible='true' lat='-27.34022899606' lon='153.04585499133'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='38' />
+    <tag k='addr:postcode' v='4018' />
+    <tag k='addr:street' v='Jagera Circuit' />
+    <tag k='addr:suburb' v='Taigum' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3780685' action='modify' visible='true' lat='-27.34040099802' lon='153.04580744535'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='40' />
+    <tag k='addr:postcode' v='4018' />
+    <tag k='addr:street' v='Jagera Circuit' />
+    <tag k='addr:suburb' v='Taigum' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3780686' action='modify' visible='true' lat='-27.34018451917' lon='153.04407283522'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:postcode' v='4018' />
+    <tag k='addr:street' v='Jagera Circuit' />
+    <tag k='addr:suburb' v='Taigum' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3780687' action='modify' visible='true' lat='-27.33970160477' lon='153.04463625748'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='18' />
+    <tag k='addr:postcode' v='4018' />
+    <tag k='addr:street' v='Jagera Circuit' />
+    <tag k='addr:suburb' v='Taigum' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3780688' action='modify' visible='true' lat='-27.34088679914' lon='153.04467658503'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='43' />
+    <tag k='addr:postcode' v='4018' />
+    <tag k='addr:street' v='Jagera Circuit' />
+    <tag k='addr:suburb' v='Taigum' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3780689' action='modify' visible='true' lat='-27.34010200811' lon='153.04518359487'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='21' />
+    <tag k='addr:postcode' v='4018' />
+    <tag k='addr:street' v='Jagera Circuit' />
+    <tag k='addr:suburb' v='Taigum' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3780690' action='modify' visible='true' lat='-27.34004489242' lon='153.04409287804'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='8' />
+    <tag k='addr:postcode' v='4018' />
+    <tag k='addr:street' v='Jagera Circuit' />
+    <tag k='addr:suburb' v='Taigum' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3780691' action='modify' visible='true' lat='-27.3407173039' lon='153.04453728561'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='45' />
+    <tag k='addr:postcode' v='4018' />
+    <tag k='addr:street' v='Jagera Circuit' />
+    <tag k='addr:suburb' v='Taigum' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3780692' action='modify' visible='true' lat='-27.34126434847' lon='153.04456061531'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='68' />
+    <tag k='addr:postcode' v='4018' />
+    <tag k='addr:street' v='Jagera Circuit' />
+    <tag k='addr:suburb' v='Taigum' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3780693' action='modify' visible='true' lat='-27.34054878042' lon='153.04443622201'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='7' />
+    <tag k='addr:postcode' v='4018' />
+    <tag k='addr:street' v='Jagera Circuit' />
+    <tag k='addr:suburb' v='Taigum' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3780694' action='modify' visible='true' lat='-27.34099603974' lon='153.04498627097'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='39' />
+    <tag k='addr:postcode' v='4018' />
+    <tag k='addr:street' v='Jagera Circuit' />
+    <tag k='addr:suburb' v='Taigum' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3780695' action='modify' visible='true' lat='-27.34026407222' lon='153.04543509911'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='25' />
+    <tag k='addr:postcode' v='4018' />
+    <tag k='addr:street' v='Jagera Circuit' />
+    <tag k='addr:suburb' v='Taigum' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3780696' action='modify' visible='true' lat='-27.34101946317' lon='153.04514055559'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='37' />
+    <tag k='addr:postcode' v='4018' />
+    <tag k='addr:street' v='Jagera Circuit' />
+    <tag k='addr:suburb' v='Taigum' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3780697' action='modify' visible='true' lat='-27.33979917556' lon='153.04527067801'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='26' />
+    <tag k='addr:postcode' v='4018' />
+    <tag k='addr:street' v='Jagera Circuit' />
+    <tag k='addr:suburb' v='Taigum' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3780698' action='modify' visible='true' lat='-27.34095844229' lon='153.04483086863'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='41' />
+    <tag k='addr:postcode' v='4018' />
+    <tag k='addr:street' v='Jagera Circuit' />
+    <tag k='addr:suburb' v='Taigum' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3780699' action='modify' visible='true' lat='-27.34072607776' lon='153.04532787145'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='31' />
+    <tag k='addr:postcode' v='4018' />
+    <tag k='addr:street' v='Jagera Circuit' />
+    <tag k='addr:suburb' v='Taigum' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3780700' action='modify' visible='true' lat='-27.340574849' lon='153.04534995024'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='29' />
+    <tag k='addr:postcode' v='4018' />
+    <tag k='addr:street' v='Jagera Circuit' />
+    <tag k='addr:suburb' v='Taigum' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3780701' action='modify' visible='true' lat='-27.33990315699' lon='153.04578427147'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='32' />
+    <tag k='addr:postcode' v='4018' />
+    <tag k='addr:street' v='Jagera Circuit' />
+    <tag k='addr:suburb' v='Taigum' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3780702' action='modify' visible='true' lat='-27.34104535323' lon='153.04531617292'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='35' />
+    <tag k='addr:postcode' v='4018' />
+    <tag k='addr:street' v='Jagera Circuit' />
+    <tag k='addr:suburb' v='Taigum' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3780703' action='modify' visible='true' lat='-27.34085912964' lon='153.04531567256'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='33' />
+    <tag k='addr:postcode' v='4018' />
+    <tag k='addr:street' v='Jagera Circuit' />
+    <tag k='addr:suburb' v='Taigum' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3780704' action='modify' visible='true' lat='-27.33967735851' lon='153.04445583089'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='16' />
+    <tag k='addr:postcode' v='4018' />
+    <tag k='addr:street' v='Jagera Circuit' />
+    <tag k='addr:suburb' v='Taigum' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3780705' action='modify' visible='true' lat='-27.34041314116' lon='153.04539173865'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='27' />
+    <tag k='addr:postcode' v='4018' />
+    <tag k='addr:street' v='Jagera Circuit' />
+    <tag k='addr:suburb' v='Taigum' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3780706' action='modify' visible='true' lat='-27.34012400033' lon='153.04546299528'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='23' />
+    <tag k='addr:postcode' v='4018' />
+    <tag k='addr:street' v='Jagera Circuit' />
+    <tag k='addr:suburb' v='Taigum' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3780707' action='modify' visible='true' lat='-27.33984880426' lon='153.04562858045'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='30' />
+    <tag k='addr:postcode' v='4018' />
+    <tag k='addr:street' v='Jagera Circuit' />
+    <tag k='addr:suburb' v='Taigum' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3780708' action='modify' visible='true' lat='-27.33998354677' lon='153.04591245482'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='36' />
+    <tag k='addr:postcode' v='4018' />
+    <tag k='addr:street' v='Jagera Circuit' />
+    <tag k='addr:suburb' v='Taigum' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3780709' action='modify' visible='true' lat='-27.33978803137' lon='153.0451138726'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='24' />
+    <tag k='addr:postcode' v='4018' />
+    <tag k='addr:street' v='Jagera Circuit' />
+    <tag k='addr:suburb' v='Taigum' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3780710' action='modify' visible='true' lat='-27.33982132941' lon='153.04544133818'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='28' />
+    <tag k='addr:postcode' v='4018' />
+    <tag k='addr:street' v='Jagera Circuit' />
+    <tag k='addr:suburb' v='Taigum' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3780711' action='modify' visible='true' lat='-27.33972881793' lon='153.0447983262'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='20' />
+    <tag k='addr:postcode' v='4018' />
+    <tag k='addr:street' v='Jagera Circuit' />
+    <tag k='addr:suburb' v='Taigum' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3780712' action='modify' visible='true' lat='-27.3413717277' lon='153.0456561064'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='54' />
+    <tag k='addr:postcode' v='4018' />
+    <tag k='addr:street' v='Jagera Circuit' />
+    <tag k='addr:suburb' v='Taigum' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3780713' action='modify' visible='true' lat='-27.34138875985' lon='153.04550227243'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='56' />
+    <tag k='addr:postcode' v='4018' />
+    <tag k='addr:street' v='Jagera Circuit' />
+    <tag k='addr:suburb' v='Taigum' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3780714' action='modify' visible='true' lat='-27.3408293366' lon='153.04573164664'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='46' />
+    <tag k='addr:postcode' v='4018' />
+    <tag k='addr:street' v='Jagera Circuit' />
+    <tag k='addr:suburb' v='Taigum' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3780715' action='modify' visible='true' lat='-27.34114044332' lon='153.04568713965'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='50' />
+    <tag k='addr:postcode' v='4018' />
+    <tag k='addr:street' v='Jagera Circuit' />
+    <tag k='addr:suburb' v='Taigum' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3780716' action='modify' visible='true' lat='-27.34135338345' lon='153.04501328713'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='62' />
+    <tag k='addr:postcode' v='4018' />
+    <tag k='addr:street' v='Jagera Circuit' />
+    <tag k='addr:suburb' v='Taigum' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3780717' action='modify' visible='true' lat='-27.34133834122' lon='153.04484901696'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='64' />
+    <tag k='addr:postcode' v='4018' />
+    <tag k='addr:street' v='Jagera Circuit' />
+    <tag k='addr:suburb' v='Taigum' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3780718' action='modify' visible='true' lat='-27.34139286374' lon='153.04534773556'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='58' />
+    <tag k='addr:postcode' v='4018' />
+    <tag k='addr:street' v='Jagera Circuit' />
+    <tag k='addr:suburb' v='Taigum' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3780719' action='modify' visible='true' lat='-27.34042193836' lon='153.04470812291'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='5' />
+    <tag k='addr:postcode' v='4018' />
+    <tag k='addr:street' v='Ginkgo Close' />
+    <tag k='addr:suburb' v='Taigum' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3780720' action='modify' visible='true' lat='-27.34138111917' lon='153.04517729964'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='60' />
+    <tag k='addr:postcode' v='4018' />
+    <tag k='addr:street' v='Jagera Circuit' />
+    <tag k='addr:suburb' v='Taigum' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3780721' action='modify' visible='true' lat='-27.34032347099' lon='153.04404589726'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='4' />
+    <tag k='addr:postcode' v='4018' />
+    <tag k='addr:street' v='Jagera Circuit' />
+    <tag k='addr:suburb' v='Taigum' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3780722' action='modify' visible='true' lat='-27.34101447427' lon='153.04408307114'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='74' />
+    <tag k='addr:postcode' v='4018' />
+    <tag k='addr:street' v='Jagera Circuit' />
+    <tag k='addr:suburb' v='Taigum' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3780723' action='modify' visible='true' lat='-27.3412974939' lon='153.04469229861'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='66' />
+    <tag k='addr:postcode' v='4018' />
+    <tag k='addr:street' v='Jagera Circuit' />
+    <tag k='addr:suburb' v='Taigum' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3780724' action='modify' visible='true' lat='-27.34037088343' lon='153.04513149734'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:postcode' v='4018' />
+    <tag k='addr:street' v='Ginkgo Close' />
+    <tag k='addr:suburb' v='Taigum' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3780725' action='modify' visible='true' lat='-27.33998850129' lon='153.04452383145'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='15' />
+    <tag k='addr:postcode' v='4018' />
+    <tag k='addr:street' v='Jagera Circuit' />
+    <tag k='addr:suburb' v='Taigum' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3780726' action='modify' visible='true' lat='-27.340064947' lon='153.04476459391'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='17' />
+    <tag k='addr:postcode' v='4018' />
+    <tag k='addr:street' v='Jagera Circuit' />
+    <tag k='addr:suburb' v='Taigum' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3780727' action='modify' visible='true' lat='-27.34054094777' lon='153.04576676067'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='42' />
+    <tag k='addr:postcode' v='4018' />
+    <tag k='addr:street' v='Jagera Circuit' />
+    <tag k='addr:suburb' v='Taigum' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3780728' action='modify' visible='true' lat='-27.34039493527' lon='153.04445314498'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='9' />
+    <tag k='addr:postcode' v='4018' />
+    <tag k='addr:street' v='Jagera Circuit' />
+    <tag k='addr:suburb' v='Taigum' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3780729' action='modify' visible='true' lat='-27.34023506024' lon='153.0451426742'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='4' />
+    <tag k='addr:postcode' v='4018' />
+    <tag k='addr:street' v='Ginkgo Close' />
+    <tag k='addr:suburb' v='Taigum' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3780730' action='modify' visible='true' lat='-27.34012579223' lon='153.04449620598'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='13' />
+    <tag k='addr:postcode' v='4018' />
+    <tag k='addr:street' v='Jagera Circuit' />
+    <tag k='addr:suburb' v='Taigum' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3780731' action='modify' visible='true' lat='-27.3402561642' lon='153.04447927374'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='11' />
+    <tag k='addr:postcode' v='4018' />
+    <tag k='addr:street' v='Jagera Circuit' />
+    <tag k='addr:suburb' v='Taigum' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3780732' action='modify' visible='true' lat='-27.34024985148' lon='153.04474010162'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:postcode' v='4018' />
+    <tag k='addr:street' v='Ginkgo Close' />
+    <tag k='addr:suburb' v='Taigum' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3780733' action='modify' visible='true' lat='-27.3414696483' lon='153.04501244445'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='277A' />
+    <tag k='addr:postcode' v='4018' />
+    <tag k='addr:street' v='Roghan Road' />
+    <tag k='addr:suburb' v='Taigum' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3780734' action='modify' visible='true' lat='-27.34046585375' lon='153.04401815181'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='2' />
+    <tag k='addr:postcode' v='4018' />
+    <tag k='addr:street' v='Jagera Circuit' />
+    <tag k='addr:suburb' v='Taigum' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3780735' action='modify' visible='true' lat='-27.34052914918' lon='153.04509676376'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='8' />
+    <tag k='addr:postcode' v='4018' />
+    <tag k='addr:street' v='Ginkgo Close' />
+    <tag k='addr:suburb' v='Taigum' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3780736' action='modify' visible='true' lat='-27.34097829186' lon='153.04570486635'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='48' />
+    <tag k='addr:postcode' v='4018' />
+    <tag k='addr:street' v='Jagera Circuit' />
+    <tag k='addr:suburb' v='Taigum' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3780737' action='modify' visible='true' lat='-27.3406832199' lon='153.04508052922'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='10' />
+    <tag k='addr:postcode' v='4018' />
+    <tag k='addr:street' v='Ginkgo Close' />
+    <tag k='addr:suburb' v='Taigum' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3780738' action='modify' visible='true' lat='-27.33967995853' lon='153.04428554492'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='14' />
+    <tag k='addr:postcode' v='4018' />
+    <tag k='addr:street' v='Jagera Circuit' />
+    <tag k='addr:suburb' v='Taigum' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3780739' action='modify' visible='true' lat='-27.33976650388' lon='153.04495938826'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='22' />
+    <tag k='addr:postcode' v='4018' />
+    <tag k='addr:street' v='Jagera Circuit' />
+    <tag k='addr:suburb' v='Taigum' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3780740' action='modify' visible='true' lat='-27.34121359557' lon='153.04443661862'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='70' />
+    <tag k='addr:postcode' v='4018' />
+    <tag k='addr:street' v='Jagera Circuit' />
+    <tag k='addr:suburb' v='Taigum' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3780741' action='modify' visible='true' lat='-27.33990346192' lon='153.04410689473'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='10' />
+    <tag k='addr:postcode' v='4018' />
+    <tag k='addr:street' v='Jagera Circuit' />
+    <tag k='addr:suburb' v='Taigum' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3780742' action='modify' visible='true' lat='-27.33969048097' lon='153.04412824288'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='12' />
+    <tag k='addr:postcode' v='4018' />
+    <tag k='addr:street' v='Jagera Circuit' />
+    <tag k='addr:suburb' v='Taigum' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3780913' action='modify' visible='true' lat='-27.33581400411' lon='153.04786391462'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:postcode' v='4018' />
+    <tag k='addr:street' v='Cassia Place' />
+    <tag k='addr:suburb' v='Taigum' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3780914' action='modify' visible='true' lat='-27.33555514261' lon='153.0479342651'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='5' />
+    <tag k='addr:postcode' v='4018' />
+    <tag k='addr:street' v='Cassia Place' />
+    <tag k='addr:suburb' v='Taigum' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3780915' action='modify' visible='true' lat='-27.33574774496' lon='153.04747131184'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='15' />
+    <tag k='addr:postcode' v='4018' />
+    <tag k='addr:street' v='Lomandra Street' />
+    <tag k='addr:suburb' v='Taigum' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3780916' action='modify' visible='true' lat='-27.33536072019' lon='153.04796333657'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='7' />
+    <tag k='addr:postcode' v='4018' />
+    <tag k='addr:street' v='Cassia Place' />
+    <tag k='addr:suburb' v='Taigum' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3780917' action='modify' visible='true' lat='-27.33552072136' lon='153.04747559244'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:postcode' v='4018' />
+    <tag k='addr:street' v='Cassia Place' />
+    <tag k='addr:suburb' v='Taigum' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3780918' action='modify' visible='true' lat='-27.33518261126' lon='153.04801983125'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='9' />
+    <tag k='addr:postcode' v='4018' />
+    <tag k='addr:street' v='Cassia Place' />
+    <tag k='addr:suburb' v='Taigum' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3780919' action='modify' visible='true' lat='-27.33533265309' lon='153.04750988379'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='8' />
+    <tag k='addr:postcode' v='4018' />
+    <tag k='addr:street' v='Cassia Place' />
+    <tag k='addr:suburb' v='Taigum' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3780920' action='modify' visible='true' lat='-27.3349874024' lon='153.04807797627'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='11' />
+    <tag k='addr:postcode' v='4018' />
+    <tag k='addr:street' v='Cassia Place' />
+    <tag k='addr:suburb' v='Taigum' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3780921' action='modify' visible='true' lat='-27.33514566815' lon='153.04754427659'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='10' />
+    <tag k='addr:postcode' v='4018' />
+    <tag k='addr:street' v='Cassia Place' />
+    <tag k='addr:suburb' v='Taigum' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3780922' action='modify' visible='true' lat='-27.33477060305' lon='153.04756821691'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='16' />
+    <tag k='addr:postcode' v='4018' />
+    <tag k='addr:street' v='Cassia Place' />
+    <tag k='addr:suburb' v='Taigum' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3780923' action='modify' visible='true' lat='-27.33495797296' lon='153.04754338777'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='12' />
+    <tag k='addr:postcode' v='4018' />
+    <tag k='addr:street' v='Cassia Place' />
+    <tag k='addr:suburb' v='Taigum' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3780924' action='modify' visible='true' lat='-27.33468729517' lon='153.04795267467'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='20' />
+    <tag k='addr:postcode' v='4018' />
+    <tag k='addr:street' v='Cassia Place' />
+    <tag k='addr:suburb' v='Taigum' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+</osm>

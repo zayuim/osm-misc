@@ -1,0 +1,3859 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='-3650161' action='modify' visible='true' lat='-27.38039034242' lon='153.06894696841'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='3A' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Kia-Ora Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650162' action='modify' visible='true' lat='-27.38046271758' lon='153.06900809795'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Kia-Ora Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650163' action='modify' visible='true' lat='-27.38388892109' lon='153.06570859707'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='6A' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Walter Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650164' action='modify' visible='true' lat='-27.38394266748' lon='153.06562735536'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Walter Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650165' action='modify' visible='true' lat='-27.37786844625' lon='153.06743966265'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='39' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Downfall Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650166' action='modify' visible='true' lat='-27.37769654732' lon='153.06744754778'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='41' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Downfall Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650167' action='modify' visible='true' lat='-27.38054249371' lon='153.06703685071'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='16' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='First Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650168' action='modify' visible='true' lat='-27.38126826596' lon='153.0671428825'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='7' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Nixon Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650169' action='modify' visible='true' lat='-27.38243612619' lon='153.06715485409'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='99' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='St Vincents Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650170' action='modify' visible='true' lat='-27.3804700275' lon='153.06697552008'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='18' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='First Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650171' action='modify' visible='true' lat='-27.38076083099' lon='153.06671306077'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='17' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Nixon Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650172' action='modify' visible='true' lat='-27.38239261049' lon='153.06724913649'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='99A' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='St Vincents Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650173' action='modify' visible='true' lat='-27.37892992956' lon='153.07026816384'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='17' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Taylor Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650174' action='modify' visible='true' lat='-27.37783397924' lon='153.06996599946'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='63' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Blinzinger Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650175' action='modify' visible='true' lat='-27.37838765875' lon='153.06981394232'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='25' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Taylor Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650176' action='modify' visible='true' lat='-27.37813066078' lon='153.07010999498'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='89' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Wellington Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650177' action='modify' visible='true' lat='-27.37721555946' lon='153.06904865926'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='7' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Raleigh Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650178' action='modify' visible='true' lat='-27.38105011772' lon='153.06746576298'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='8' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='First Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650179' action='modify' visible='true' lat='-27.37770265001' lon='153.06936388372'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='8' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Raleigh Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650180' action='modify' visible='true' lat='-27.37730762365' lon='153.06891148207'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='9' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Raleigh Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650181' action='modify' visible='true' lat='-27.37781242252' lon='153.06920062538'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='10' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Raleigh Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650182' action='modify' visible='true' lat='-27.37739977804' lon='153.06877420357'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='11' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Raleigh Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650183' action='modify' visible='true' lat='-27.3779221948' lon='153.06903746784'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='12' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Raleigh Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650184' action='modify' visible='true' lat='-27.37800569146' lon='153.06888167629'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='14' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Raleigh Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650185' action='modify' visible='true' lat='-27.37749238306' lon='153.06863823983'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='15' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Raleigh Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650186' action='modify' visible='true' lat='-27.37807939816' lon='153.06875096916'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='16' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Raleigh Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650187' action='modify' visible='true' lat='-27.37757821403' lon='153.06850803615'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='17' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Raleigh Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650188' action='modify' visible='true' lat='-27.37815830344' lon='153.06862327879'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='18' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Raleigh Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650189' action='modify' visible='true' lat='-27.37766061019' lon='153.06838602177'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='19' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Raleigh Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650190' action='modify' visible='true' lat='-27.37703590671' lon='153.06830139603'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='14' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Kelly Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650191' action='modify' visible='true' lat='-27.37717783994' lon='153.06846238193'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='12' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Kelly Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650192' action='modify' visible='true' lat='-27.37878545082' lon='153.07014651186'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='19A' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Taylor Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650193' action='modify' visible='true' lat='-27.37936337413' lon='153.07063316214'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Taylor Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650194' action='modify' visible='true' lat='-27.37971003949' lon='153.07028493911'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='160' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='St Vincents Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650195' action='modify' visible='true' lat='-27.38222993129' lon='153.06648051198'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='96A' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='St Vincents Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650196' action='modify' visible='true' lat='-27.3822854029' lon='153.06639842334'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='96' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='St Vincents Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650197' action='modify' visible='true' lat='-27.37929117107' lon='153.07057229521'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='5' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Taylor Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650198' action='modify' visible='true' lat='-27.38112258371' lon='153.06752709424'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='6A' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='First Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650199' action='modify' visible='true' lat='-27.37885773534' lon='153.07020733784'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='19' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Taylor Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650200' action='modify' visible='true' lat='-27.37962102388' lon='153.07008451857'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Taylor Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650201' action='modify' visible='true' lat='-27.37921888669' lon='153.07051150921'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='7' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Taylor Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650202' action='modify' visible='true' lat='-27.37954874837' lon='153.07002361135'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='8' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Taylor Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650203' action='modify' visible='true' lat='-27.37900215082' lon='153.07032901017'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='15' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Taylor Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650204' action='modify' visible='true' lat='-27.3783116297' lon='153.06752721806'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='35' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Raleigh Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650205' action='modify' visible='true' lat='-27.38364583108' lon='153.0677465755'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='30' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Harold Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650206' action='modify' visible='true' lat='-27.38311158079' lon='153.06786538819'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='37A' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Walter Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650207' action='modify' visible='true' lat='-27.38400847844' lon='153.06720986125'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='24B' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Harold Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650208' action='modify' visible='true' lat='-27.37898352801' lon='153.06739705418'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='36' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Raleigh Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650209' action='modify' visible='true' lat='-27.3784511608' lon='153.06735544962'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='37' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Raleigh Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650210' action='modify' visible='true' lat='-27.38406340839' lon='153.06712858044'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='24A' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Harold Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650211' action='modify' visible='true' lat='-27.38200809964' lon='153.06781728247'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='109' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='St Vincents Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650212' action='modify' visible='true' lat='-27.37906583305' lon='153.06727473399'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='38' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Raleigh Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650213' action='modify' visible='true' lat='-27.3819531061' lon='153.06789850073'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='111' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='St Vincents Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650214' action='modify' visible='true' lat='-27.38395363876' lon='153.06729104091'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='24' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Harold Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650215' action='modify' visible='true' lat='-27.38413198044' lon='153.06702708039'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='20' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Harold Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650216' action='modify' visible='true' lat='-27.37914813798' lon='153.06715241361'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='40' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Raleigh Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650217' action='modify' visible='true' lat='-27.38421428486' lon='153.06690525995'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='18' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Harold Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650218' action='modify' visible='true' lat='-27.37923035253' lon='153.067030093'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='42' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Raleigh Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650219' action='modify' visible='true' lat='-27.3842965169' lon='153.06678354042'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='16' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Harold Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650220' action='modify' visible='true' lat='-27.38437889334' lon='153.06666171967'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='14' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Harold Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650221' action='modify' visible='true' lat='-27.38316637564' lon='153.06778425998'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='37' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Walter Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650222' action='modify' visible='true' lat='-27.38207311334' lon='153.06467421746'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='19B' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Wellington Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650223' action='modify' visible='true' lat='-27.38466691211' lon='153.06623529485'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='8' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Harold Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650224' action='modify' visible='true' lat='-27.3820165958' lon='153.06475562859'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='19C' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Wellington Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650225' action='modify' visible='true' lat='-27.38462585537' lon='153.06600022719'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='4' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Harold Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650226' action='modify' visible='true' lat='-27.3848088061' lon='153.06610329378'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='2' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Harold Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650227' action='modify' visible='true' lat='-27.3822479548' lon='153.06501689436'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='18' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Meadfoot Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650228' action='modify' visible='true' lat='-27.38221739076' lon='153.064539114'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='19' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Wellington Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650229' action='modify' visible='true' lat='-27.37794429303' lon='153.06980496674'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='64' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Wellington Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650230' action='modify' visible='true' lat='-27.38216291342' lon='153.06462100182'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='19A' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Wellington Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650231' action='modify' visible='true' lat='-27.3782416034' lon='153.06849944405'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='20' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Raleigh Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650232' action='modify' visible='true' lat='-27.37774187736' lon='153.06826475489'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='21' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Raleigh Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650233' action='modify' visible='true' lat='-27.37832643678' lon='153.06837813835'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='22' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Raleigh Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650234' action='modify' visible='true' lat='-27.37782296351' lon='153.06814421586'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='23' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Raleigh Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650235' action='modify' visible='true' lat='-27.37848983096' lon='153.06813090085'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='24' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Raleigh Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650236' action='modify' visible='true' lat='-27.37790391411' lon='153.06802371703'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='25' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Raleigh Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650237' action='modify' visible='true' lat='-27.37857211858' lon='153.06800860195'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='26' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Raleigh Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650238' action='modify' visible='true' lat='-27.38323457524' lon='153.06835526529'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='38' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Harold Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650239' action='modify' visible='true' lat='-27.37798477433' lon='153.06790321796'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='27' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Raleigh Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650240' action='modify' visible='true' lat='-27.38317973495' lon='153.06843634267'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='38A' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Harold Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650241' action='modify' visible='true' lat='-27.3786543971' lon='153.06788623208'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='28' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Raleigh Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650242' action='modify' visible='true' lat='-27.38280759654' lon='153.06898679749'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='46' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Harold Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650243' action='modify' visible='true' lat='-27.37807384785' lon='153.06778717351'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='29' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Raleigh Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650244' action='modify' visible='true' lat='-27.37873670257' lon='153.06776391261'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='30' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Raleigh Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650245' action='modify' visible='true' lat='-27.38289125765' lon='153.06886346375'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='44' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Harold Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650246' action='modify' visible='true' lat='-27.37818215128' lon='153.06767083717'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='31' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Raleigh Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650247' action='modify' visible='true' lat='-27.38298780239' lon='153.0687204871'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='42' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Harold Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650248' action='modify' visible='true' lat='-27.3833167905' lon='153.0682335479'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='36' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Harold Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650249' action='modify' visible='true' lat='-27.37881891766' lon='153.0676415929'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='32' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Raleigh Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650250' action='modify' visible='true' lat='-27.37890122286' lon='153.0675193742'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='34' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Raleigh Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650251' action='modify' visible='true' lat='-27.38342643475' lon='153.06807127126'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='34' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Harold Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650252' action='modify' visible='true' lat='-27.38093928854' lon='153.06813520278'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='First Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650253' action='modify' visible='true' lat='-27.3810117272' lon='153.06819641304'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='1A' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='First Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650254' action='modify' visible='true' lat='-27.38232114337' lon='153.06507979271'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='14' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Meadfoot Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650255' action='modify' visible='true' lat='-27.38421397253' lon='153.06623522732'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='9A' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Walter Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650256' action='modify' visible='true' lat='-27.38426881154' lon='153.06615414809'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='9' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Walter Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650257' action='modify' visible='true' lat='-27.38083253893' lon='153.06728197183'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='12' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='First Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650258' action='modify' visible='true' lat='-27.3788807775' lon='153.06908074059'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='75' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Wellington Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650259' action='modify' visible='true' lat='-27.37899109006' lon='153.06892011001'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='35' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='George Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650260' action='modify' visible='true' lat='-27.3793362685' lon='153.06678889505'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='23' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Downfall Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650261' action='modify' visible='true' lat='-27.37961232505' lon='153.06829123667'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='17' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Kia-Ora Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650262' action='modify' visible='true' lat='-27.37972091595' lon='153.06838162513'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='15' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Kia-Ora Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650263' action='modify' visible='true' lat='-27.38004960529' lon='153.06789425403'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='14' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Kia-Ora Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650264' action='modify' visible='true' lat='-27.38014020122' lon='153.06797064473'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='12A' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Kia-Ora Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650265' action='modify' visible='true' lat='-27.3802126671' lon='153.06803176343'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='12' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Kia-Ora Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650266' action='modify' visible='true' lat='-27.37984752777' lon='153.06848860055'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='11' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Kia-Ora Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650267' action='modify' visible='true' lat='-27.38043006459' lon='153.06821508969'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='8A' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Kia-Ora Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650268' action='modify' visible='true' lat='-27.3805025123' lon='153.06827621882'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='8' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Kia-Ora Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650269' action='modify' visible='true' lat='-27.38383731325' lon='153.06515712921'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='30A' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Toombul Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650270' action='modify' visible='true' lat='-27.38102220089' lon='153.06445174849'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='7' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Whitfield Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650271' action='modify' visible='true' lat='-27.38120532785' lon='153.0643714529'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='5' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Whitfield Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650272' action='modify' visible='true' lat='-27.38450230433' lon='153.06647893753'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='12' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Harold Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650273' action='modify' visible='true' lat='-27.38072380559' lon='153.06429188529'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='11' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Whitfield Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650274' action='modify' visible='true' lat='-27.38389877192' lon='153.06737231148'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='26' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Harold Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650275' action='modify' visible='true' lat='-27.38087570458' lon='153.06438724127'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='9' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Whitfield Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650276' action='modify' visible='true' lat='-27.3808110276' lon='153.06367815419'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='16' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Whitfield Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650277' action='modify' visible='true' lat='-27.38055666026' lon='153.06417214755'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='15' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Whitfield Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650278' action='modify' visible='true' lat='-27.38461202782' lon='153.06631658668'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='10' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Harold Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650279' action='modify' visible='true' lat='-27.38312488548' lon='153.06851761213'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='40' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Harold Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650280' action='modify' visible='true' lat='-27.37952405988' lon='153.0706439438'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Taylor Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650281' action='modify' visible='true' lat='-27.38378282242' lon='153.0675437891'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='28' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Harold Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650282' action='modify' visible='true' lat='-27.37941582052' lon='153.07080710307'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='166' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='St Vincents Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650283' action='modify' visible='true' lat='-27.38356352597' lon='153.06786829356'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='32' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Harold Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650284' action='modify' visible='true' lat='-27.37980847127' lon='153.06896713768'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='12' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='George Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650285' action='modify' visible='true' lat='-27.3797362767' lon='153.06890590751'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='12A' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='George Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650286' action='modify' visible='true' lat='-27.38383446175' lon='153.06578919101'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='8' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Walter Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650287' action='modify' visible='true' lat='-27.38377944229' lon='153.06587047227'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='8A' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Walter Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650288' action='modify' visible='true' lat='-27.38083332436' lon='153.06677448241'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='15' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Nixon Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650289' action='modify' visible='true' lat='-27.38104768955' lon='153.06631596801'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='16' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Nixon Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650290' action='modify' visible='true' lat='-27.38043184679' lon='153.06770699593'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='11' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='First Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650291' action='modify' visible='true' lat='-27.37996651856' lon='153.06662266685'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='9' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Downfall Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='addr:unit' v='1' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650292' action='modify' visible='true' lat='-27.38148579056' lon='153.06732706849'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='3A' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Nixon Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650293' action='modify' visible='true' lat='-27.37999826636' lon='153.0666122287'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='9' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Downfall Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='addr:unit' v='2' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650294' action='modify' visible='true' lat='-27.38155822045' lon='153.0673884909'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Nixon Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650295' action='modify' visible='true' lat='-27.38150825159' lon='153.06546934225'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='29' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Wellington Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650296' action='modify' visible='true' lat='-27.38284650693' lon='153.06445644668'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Nixon Lane' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='addr:unit' v='3' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650297' action='modify' visible='true' lat='-27.38139360826' lon='153.06563270796'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='33' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Wellington Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650298' action='modify' visible='true' lat='-27.38289939548' lon='153.06717065819'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='30A' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Walter Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650299' action='modify' visible='true' lat='-27.3829095491' lon='153.06479013018'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Nixon Lane' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650300' action='modify' visible='true' lat='-27.38311583965' lon='153.06479338559'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='7' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Nixon Lane' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650301' action='modify' visible='true' lat='-27.38301050271' lon='153.0650200304'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='9' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Nixon Lane' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650302' action='modify' visible='true' lat='-27.37982311803' lon='153.06697718351'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='16' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Wellington Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650303' action='modify' visible='true' lat='-27.38290088854' lon='153.06518347253'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='11' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Nixon Lane' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650304' action='modify' visible='true' lat='-27.3826399161' lon='153.06451687678'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Nixon Lane' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='addr:unit' v='4' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650305' action='modify' visible='true' lat='-27.38269860951' lon='153.06527030023'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='13' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Nixon Lane' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650306' action='modify' visible='true' lat='-27.38295432537' lon='153.06708947931'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='30' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Walter Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650307' action='modify' visible='true' lat='-27.38171895098' lon='153.06740043117'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Nixon Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650308' action='modify' visible='true' lat='-27.38127876617' lon='153.06579596197'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='35' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Wellington Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650309' action='modify' visible='true' lat='-27.38169929513' lon='153.06678420563'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Nixon Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650310' action='modify' visible='true' lat='-27.38253078181' lon='153.06467855938'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Nixon Lane' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='addr:unit' v='6' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650311' action='modify' visible='true' lat='-27.38157602181' lon='153.0666785471'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='8' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Nixon Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650312' action='modify' visible='true' lat='-27.38035929951' lon='153.06764589749'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='11A' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='First Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650313' action='modify' visible='true' lat='-27.3802868245' lon='153.06758463736'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='15' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='First Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650314' action='modify' visible='true' lat='-27.38112327955' lon='153.06702000798'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='9' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Nixon Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650315' action='modify' visible='true' lat='-27.382585349' lon='153.06459768273'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Nixon Lane' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='addr:unit' v='5' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650316' action='modify' visible='true' lat='-27.38105081334' lon='153.06695867705'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='11' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Nixon Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650317' action='modify' visible='true' lat='-27.38242153897' lon='153.06484032251'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Nixon Lane' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='addr:unit' v='8' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650318' action='modify' visible='true' lat='-27.38134039322' lon='153.06647917114'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='12' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Nixon Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650319' action='modify' visible='true' lat='-27.38247621459' lon='153.06475943596'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Nixon Lane' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='addr:unit' v='7' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650320' action='modify' visible='true' lat='-27.3812108905' lon='153.06637300391'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='14' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Nixon Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650321' action='modify' visible='true' lat='-27.38283719956' lon='153.06827107838'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='45' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Walter Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650322' action='modify' visible='true' lat='-27.3843236053' lon='153.06607320024'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='7' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Walter Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650323' action='modify' visible='true' lat='-27.38437839908' lon='153.06599209048'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='5' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Walter Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650324' action='modify' visible='true' lat='-27.38256981524' lon='153.06765752757'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='38' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Walter Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650325' action='modify' visible='true' lat='-27.38185015719' lon='153.06544496776'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='17' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Meadfoot Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650326' action='modify' visible='true' lat='-27.3803575988' lon='153.06815396063'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='10' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Kia-Ora Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650327' action='modify' visible='true' lat='-27.38192253349' lon='153.06550690491'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='15' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Meadfoot Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650328' action='modify' visible='true' lat='-27.38028513298' lon='153.06809283165'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='10A' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Kia-Ora Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650329' action='modify' visible='true' lat='-27.38199490981' lon='153.065568741'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='13' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Meadfoot Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650330' action='modify' visible='true' lat='-27.38306409466' lon='153.06692726282'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='26' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Walter Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650331' action='modify' visible='true' lat='-27.38206728606' lon='153.06563067831'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='11' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Meadfoot Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650332' action='modify' visible='true' lat='-27.38300925521' lon='153.06700830034'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='28' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Walter Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650333' action='modify' visible='true' lat='-27.38213966233' lon='153.06569251456'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='9A' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Meadfoot Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650334' action='modify' visible='true' lat='-27.38221193917' lon='153.06575453288'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='9' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Meadfoot Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650335' action='modify' visible='true' lat='-27.3825875761' lon='153.06543700749'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='8' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Meadfoot Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650336' action='modify' visible='true' lat='-27.38229939555' lon='153.0658286358'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='7' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Meadfoot Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650337' action='modify' visible='true' lat='-27.38168698916' lon='153.06512366801'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='23' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Wellington Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650338' action='modify' visible='true' lat='-27.38240470143' lon='153.06591975028'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='5' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Meadfoot Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650339' action='modify' visible='true' lat='-27.38251433948' lon='153.06601352735'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Meadfoot Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650340' action='modify' visible='true' lat='-27.38262210796' lon='153.06610876997'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Meadfoot Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650341' action='modify' visible='true' lat='-27.38189354959' lon='153.06589827976'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='12' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Chrisrodney Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650342' action='modify' visible='true' lat='-27.38173490302' lon='153.06577447776'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='9' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Chrisrodney Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650343' action='modify' visible='true' lat='-27.38205607621' lon='153.0660452241'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='10' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Chrisrodney Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650344' action='modify' visible='true' lat='-27.38156732433' lon='153.06588738641'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='7' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Chrisrodney Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650345' action='modify' visible='true' lat='-27.37940399859' lon='153.06990195884'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='10A' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Taylor Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650346' action='modify' visible='true' lat='-27.38203857161' lon='153.06621481709'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='8' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Chrisrodney Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650347' action='modify' visible='true' lat='-27.38149808296' lon='153.06606954931'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='5' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Chrisrodney Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650348' action='modify' visible='true' lat='-27.38190713679' lon='153.0663747342'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Chrisrodney Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650349' action='modify' visible='true' lat='-27.38141689435' lon='153.06621960479'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Chrisrodney Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650350' action='modify' visible='true' lat='-27.38178199562' lon='153.06651308266'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='4' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Chrisrodney Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650351' action='modify' visible='true' lat='-27.38090588093' lon='153.06683581316'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='13' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Nixon Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650352' action='modify' visible='true' lat='-27.38097834715' lon='153.06689724507'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='11A' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Nixon Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650353' action='modify' visible='true' lat='-27.37947664459' lon='153.06996227956'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='10' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Taylor Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650354' action='modify' visible='true' lat='-27.38372442279' lon='153.06595175344'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='10' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Walter Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650355' action='modify' visible='true' lat='-27.38366931295' lon='153.06603303449'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='10A' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Walter Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650356' action='modify' visible='true' lat='-27.37962354394' lon='153.06957685376'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='15' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='George Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650357' action='modify' visible='true' lat='-27.38072180076' lon='153.06795171396'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='7' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='First Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650358' action='modify' visible='true' lat='-27.38024559201' lon='153.06882470958'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='5A' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Kia-Ora Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650359' action='modify' visible='true' lat='-27.38031787689' lon='153.06888595015'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='5' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Kia-Ora Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650360' action='modify' visible='true' lat='-27.37995295062' lon='153.06908959832'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='10' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='George Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650361' action='modify' visible='true' lat='-27.38143243121' lon='153.06446604392'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='8' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Wellington Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650362' action='modify' visible='true' lat='-27.38158778612' lon='153.06431089239'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Wellington Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650363' action='modify' visible='true' lat='-27.3792626079' lon='153.06927135962'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='27' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='George Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650364' action='modify' visible='true' lat='-27.38132131192' lon='153.0646252661'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='12' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Wellington Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650365' action='modify' visible='true' lat='-27.38064926263' lon='153.06789057476'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='7A' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='First Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650366' action='modify' visible='true' lat='-27.38250334654' lon='153.0640694048'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='9A' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Wellington Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650367' action='modify' visible='true' lat='-27.37911827307' lon='153.06914905129'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='31' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='George Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650368' action='modify' visible='true' lat='-27.37969546728' lon='153.0696382864'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='11' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='George Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650369' action='modify' visible='true' lat='-27.38228866876' lon='153.06443893036'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='17' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Wellington Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650370' action='modify' visible='true' lat='-27.37955134948' lon='153.06951592669'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='19' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='George Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650371' action='modify' visible='true' lat='-27.38355936394' lon='153.06619569763'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='12A' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Walter Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650372' action='modify' visible='true' lat='-27.37685068392' lon='153.06878377484'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Kelly Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650373' action='modify' visible='true' lat='-27.38239870542' lon='153.06427758214'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='15' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Wellington Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650374' action='modify' visible='true' lat='-27.37940696068' lon='153.06939366827'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='23' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='George Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650375' action='modify' visible='true' lat='-27.37690489219' lon='153.06870330862'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='8' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Kelly Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650376' action='modify' visible='true' lat='-27.38361436551' lon='153.06611446725'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='12' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Walter Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650377' action='modify' visible='true' lat='-27.37914669261' lon='153.07045064244'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='9' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Taylor Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650378' action='modify' visible='true' lat='-27.38180318376' lon='153.065310532'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='21' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Meadfoot Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650379' action='modify' visible='true' lat='-27.37928330145' lon='153.06988479159'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='12' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Taylor Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650380' action='modify' visible='true' lat='-27.3816168863' lon='153.06521960371'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='25' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Wellington Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650381' action='modify' visible='true' lat='-27.3785747557' lon='153.0698529854'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='23' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Taylor Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650382' action='modify' visible='true' lat='-27.37913882248' lon='153.06976293745'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='14' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Taylor Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650383' action='modify' visible='true' lat='-27.37884968361' lon='153.06951933115'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='18' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Taylor Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650384' action='modify' visible='true' lat='-27.37698611418' lon='153.06858271022'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='10' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Kelly Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650385' action='modify' visible='true' lat='-27.38063539451' lon='153.06648612237'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='45' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Wellington Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650386' action='modify' visible='true' lat='-27.38349564034' lon='153.06729733761'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='31' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Walter Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650387' action='modify' visible='true' lat='-27.37680082045' lon='153.06902402942'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='45' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Blinzinger Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650388' action='modify' visible='true' lat='-27.38344080061' lon='153.06737851685'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='31A' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Walter Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650389' action='modify' visible='true' lat='-27.37861304773' lon='153.06862598652'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='46' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Wellington Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650390' action='modify' visible='true' lat='-27.37871316626' lon='153.07008568596'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='21' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Taylor Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650391' action='modify' visible='true' lat='-27.37853225718' lon='153.06875040969'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='48' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Wellington Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650392' action='modify' visible='true' lat='-27.38266745696' lon='153.06489517013'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='12' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Nixon Lane' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='addr:unit' v='9' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650393' action='modify' visible='true' lat='-27.38053428849' lon='153.06663819724'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='47' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Wellington Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650394' action='modify' visible='true' lat='-27.37669147483' lon='153.06883554603'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='4' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Kelly Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650395' action='modify' visible='true' lat='-27.38291865638' lon='153.06459984849'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='4' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Nixon Lane' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='addr:unit' v='2' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650396' action='modify' visible='true' lat='-27.3783659821' lon='153.0689973412'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='52' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Wellington Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650397' action='modify' visible='true' lat='-27.37660349375' lon='153.06896798206'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='2' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Kelly Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650398' action='modify' visible='true' lat='-27.38298422934' lon='153.06449820459'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='2' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Nixon Lane' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='addr:unit' v='1' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650399' action='modify' visible='true' lat='-27.37844911067' lon='153.06887387048'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='50' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Wellington Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650400' action='modify' visible='true' lat='-27.38121500382' lon='153.06472745105'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='14' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Wellington Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650401' action='modify' visible='true' lat='-27.38008816703' lon='153.0672921405'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='53' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Wellington Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650402' action='modify' visible='true' lat='-27.38115754695' lon='153.06480963971'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='14B' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Wellington Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650403' action='modify' visible='true' lat='-27.37997839849' lon='153.06745186441'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='55' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Wellington Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650404' action='modify' visible='true' lat='-27.38281324475' lon='153.06473525853'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='8' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Nixon Lane' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='addr:unit' v='11' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650405' action='modify' visible='true' lat='-27.37828300689' lon='153.06912082195'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='54' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Wellington Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650406' action='modify' visible='true' lat='-27.38276003274' lon='153.06481391109'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='10' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Nixon Lane' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='addr:unit' v='10' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650407' action='modify' visible='true' lat='-27.37808612893' lon='153.06943420693'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='58' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Wellington Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650408' action='modify' visible='true' lat='-27.3794472272' lon='153.06866113915'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='18' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='George Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650409' action='modify' visible='true' lat='-27.37819572067' lon='153.06927155476'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='56' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Wellington Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650410' action='modify' visible='true' lat='-27.38002514511' lon='153.06915082873'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='8A' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='George Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650411' action='modify' visible='true' lat='-27.37981562248' lon='153.06782302483'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='61' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Wellington Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650412' action='modify' visible='true' lat='-27.37951946703' lon='153.06872235892'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='16' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='George Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650413' action='modify' visible='true' lat='-27.38084656898' lon='153.06868966319'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='2' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Kia-Ora Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650414' action='modify' visible='true' lat='-27.38009742986' lon='153.06921205927'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='8' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='George Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650415' action='modify' visible='true' lat='-27.37992322623' lon='153.06766016507'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='59' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Wellington Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650416' action='modify' visible='true' lat='-27.38095660958' lon='153.06853034396'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='126' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='St Vincents Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650417' action='modify' visible='true' lat='-27.38158873443' lon='153.06537877304'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='27' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Wellington Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650418' action='modify' visible='true' lat='-27.38317413474' lon='153.066764763'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='22' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Walter Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650419' action='modify' visible='true' lat='-27.37962872328' lon='153.06711214953'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='18' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Wellington Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650420' action='modify' visible='true' lat='-27.37927561968' lon='153.06764705875'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='30' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Wellington Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650421' action='modify' visible='true' lat='-27.37935813269' lon='153.06752451605'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='28' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Wellington Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650422' action='modify' visible='true' lat='-27.37911058434' lon='153.0678920728'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='34' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Wellington Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650423' action='modify' visible='true' lat='-27.37919307048' lon='153.06776955068'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='32' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Wellington Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650424' action='modify' visible='true' lat='-27.383229263' lon='153.06668360406'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='20A' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Walter Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650425' action='modify' visible='true' lat='-27.38115131114' lon='153.06597935409'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='37' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Wellington Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650426' action='modify' visible='true' lat='-27.37902800782' lon='153.06801459468'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='36' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Wellington Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650427' action='modify' visible='true' lat='-27.38106395128' lon='153.06610218021'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='39' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Wellington Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650428' action='modify' visible='true' lat='-27.37894552147' lon='153.06813711644'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='38' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Wellington Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650429' action='modify' visible='true' lat='-27.37763931952' lon='153.06761265999'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='28' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Kelly Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650430' action='modify' visible='true' lat='-27.38090798286' lon='153.06619518132'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='41' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Wellington Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650431' action='modify' visible='true' lat='-27.37755818871' lon='153.06773315872'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='26' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Kelly Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650432' action='modify' visible='true' lat='-27.37886303502' lon='153.06825963802'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='40' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Wellington Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650433' action='modify' visible='true' lat='-27.37747696751' lon='153.06785365723'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='24' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Kelly Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650434' action='modify' visible='true' lat='-27.3786409178' lon='153.07002486017'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='21A' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Taylor Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650435' action='modify' visible='true' lat='-27.37739588154' lon='153.06797433768'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='22' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Kelly Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650436' action='modify' visible='true' lat='-27.37731425361' lon='153.06809536146'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='20' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Kelly Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650437' action='modify' visible='true' lat='-27.37723113521' lon='153.06821788089'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='18' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Kelly Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650438' action='modify' visible='true' lat='-27.37877901486' lon='153.0683797313'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='42' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Wellington Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650439' action='modify' visible='true' lat='-27.38295478171' lon='153.06641859507'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='89' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='St Vincents Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650440' action='modify' visible='true' lat='-27.38288616498' lon='153.06652004383'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='91' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='St Vincents Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650441' action='modify' visible='true' lat='-27.3828322196' lon='153.0666009707'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='91A' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='St Vincents Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650442' action='modify' visible='true' lat='-27.38239634603' lon='153.06623414469'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='92' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='St Vincents Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650443' action='modify' visible='true' lat='-27.38274965417' lon='153.06672162664'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='93' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='St Vincents Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650444' action='modify' visible='true' lat='-27.38233780496' lon='153.06631623166'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='94' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='St Vincents Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650445' action='modify' visible='true' lat='-27.38263979482' lon='153.06688388327'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='95' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='St Vincents Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650446' action='modify' visible='true' lat='-27.38217445963' lon='153.06656260053'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='98' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='St Vincents Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650447' action='modify' visible='true' lat='-27.38211898792' lon='153.06664468901'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='98A' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='St Vincents Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650448' action='modify' visible='true' lat='-27.38184153826' lon='153.06705533235'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='2' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Nixon Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650449' action='modify' visible='true' lat='-27.38211796013' lon='153.06765492656'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='105' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='St Vincents Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650450' action='modify' visible='true' lat='-27.38206302991' lon='153.06773610456'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='107' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='St Vincents Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650451' action='modify' visible='true' lat='-27.38161245905' lon='153.06756115043'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='112' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='St Vincents Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650452' action='modify' visible='true' lat='-27.3814802067' lon='153.06767233824'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='114' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='St Vincents Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650453' action='modify' visible='true' lat='-27.37935766912' lon='153.0684575546'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='69' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Wellington Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650454' action='modify' visible='true' lat='-27.3779763655' lon='153.0695968081'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='62' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Wellington Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650455' action='modify' visible='true' lat='-27.37925552663' lon='153.06862000148'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='71' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Wellington Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650456' action='modify' visible='true' lat='-27.38328349863' lon='153.06497208968'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='70' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='St Vincents Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650457' action='modify' visible='true' lat='-27.3837238548' lon='153.06523944854'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='71' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='St Vincents Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650458' action='modify' visible='true' lat='-27.38319095254' lon='153.0651830054'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='74' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='St Vincents Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650459' action='modify' visible='true' lat='-27.38363717481' lon='153.06543488433'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='75' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='St Vincents Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650460' action='modify' visible='true' lat='-27.38308335319' lon='153.06534273712'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='76' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='St Vincents Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650461' action='modify' visible='true' lat='-27.38340826439' lon='153.0657485855'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='79' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='St Vincents Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650462' action='modify' visible='true' lat='-27.3832983158' lon='153.06591102604'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='81' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='St Vincents Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650463' action='modify' visible='true' lat='-27.38283460703' lon='153.06558218147'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='82' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='St Vincents Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650464' action='modify' visible='true' lat='-27.3827781424' lon='153.06566512999'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='84' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='St Vincents Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650465' action='modify' visible='true' lat='-27.38310597307' lon='153.06619522546'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='85' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='St Vincents Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650466' action='modify' visible='true' lat='-27.38303731134' lon='153.06629672504'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='87' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='St Vincents Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650467' action='modify' visible='true' lat='-27.37976793243' lon='153.06969941606'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='9' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='George Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650468' action='modify' visible='true' lat='-27.38383036908' lon='153.06680257756'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='19' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Walter Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650469' action='modify' visible='true' lat='-27.38388520842' lon='153.06672149889'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='19A' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Walter Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650470' action='modify' visible='true' lat='-27.38016962429' lon='153.06927328984'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='George Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650471' action='modify' visible='true' lat='-27.3798401267' lon='153.06976054563'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='7' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='George Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650472' action='modify' visible='true' lat='-27.38024190898' lon='153.06933452055'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='4' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='George Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650473' action='modify' visible='true' lat='-27.37991232095' lon='153.06982167528'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='5' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='George Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650474' action='modify' visible='true' lat='-27.3802960839' lon='153.06950334598'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='2' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='George Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650475' action='modify' visible='true' lat='-27.38033687419' lon='153.06504308313'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='14A' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Wellington Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650476' action='modify' visible='true' lat='-27.38188370234' lon='153.06800097875'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='115' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='St Vincents Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650477' action='modify' visible='true' lat='-27.38041576122' lon='153.06680254909'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='49' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Wellington Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650478' action='modify' visible='true' lat='-27.38030662404' lon='153.06696470154'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='51' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Wellington Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650479' action='modify' visible='true' lat='-27.38137070893' lon='153.067831356'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='116' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='St Vincents Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650480' action='modify' visible='true' lat='-27.3835456773' lon='153.06554548379'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='77' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='St Vincents Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650481' action='modify' visible='true' lat='-27.3802061111' lon='153.06404764231'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='17A' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Whitfield Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650482' action='modify' visible='true' lat='-27.38117361539' lon='153.07040378653'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='153' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='St Vincents Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650483' action='modify' visible='true' lat='-27.38180111495' lon='153.06812713434'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='117' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='St Vincents Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650484' action='modify' visible='true' lat='-27.38035972236' lon='153.06405178622'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='17' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Whitfield Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650485' action='modify' visible='true' lat='-27.38106565779' lon='153.06836920339'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='124' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='St Vincents Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650486' action='modify' visible='true' lat='-27.38041238578' lon='153.06933622474'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='140' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='St Vincents Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650487' action='modify' visible='true' lat='-27.382557364' lon='153.06700571204'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='97' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='St Vincents Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650488' action='modify' visible='true' lat='-27.38206342583' lon='153.06672687848'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='100' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='St Vincents Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650489' action='modify' visible='true' lat='-27.38184174128' lon='153.06940985205'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='143' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='St Vincents Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650490' action='modify' visible='true' lat='-27.38294645314' lon='153.06541547447'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='80' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='St Vincents Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650491' action='modify' visible='true' lat='-27.383215922' lon='153.06603276526'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='83' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='St Vincents Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650492' action='modify' visible='true' lat='-27.37982026253' lon='153.07012552207'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='158' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='St Vincents Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650493' action='modify' visible='true' lat='-27.38217077612' lon='153.06746512808'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='103' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='St Vincents Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650494' action='modify' visible='true' lat='-27.3823376805' lon='153.06733031489'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='101' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='St Vincents Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650495' action='modify' visible='true' lat='-27.38195248217' lon='153.06689105501'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='102' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='St Vincents Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650496' action='modify' visible='true' lat='-27.37963725774' lon='153.0667672918'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='17' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Downfall Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650497' action='modify' visible='true' lat='-27.38255006567' lon='153.06417046604'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='4' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Toombul Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650498' action='modify' visible='true' lat='-27.38273866085' lon='153.06437041888'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='8' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Toombul Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650499' action='modify' visible='true' lat='-27.38321535084' lon='153.06466908667'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='16A' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Toombul Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650500' action='modify' visible='true' lat='-27.38393338359' lon='153.06522939712'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='32B' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Toombul Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650501' action='modify' visible='true' lat='-27.38134075914' lon='153.06720428449'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='5A' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Nixon Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650502' action='modify' visible='true' lat='-27.38141324326' lon='153.06726569666'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='5' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Nixon Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650503' action='modify' visible='true' lat='-27.37976912062' lon='153.06671397277'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='15' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Downfall Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650504' action='modify' visible='true' lat='-27.38079239318' lon='153.06852063505'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='4' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Kia-Ora Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650505' action='modify' visible='true' lat='-27.38006994377' lon='153.06983734874'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='George Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650506' action='modify' visible='true' lat='-27.38064746185' lon='153.06839837621'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Kia-Ora Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650507' action='modify' visible='true' lat='-27.37996287993' lon='153.06999868995'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='154' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='St Vincents Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650508' action='modify' visible='true' lat='-27.38065123816' lon='153.06712874568'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='14' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='First Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650509' action='modify' visible='true' lat='-27.37897065189' lon='153.06953599245'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='16A' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Taylor Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650510' action='modify' visible='true' lat='-27.37904290951' lon='153.06959699004'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='16' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Taylor Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650511' action='modify' visible='true' lat='-27.38017808025' lon='153.0674929445'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='17' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='First Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650512' action='modify' visible='true' lat='-27.38002843004' lon='153.06864139269'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='9' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Kia-Ora Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650513' action='modify' visible='true' lat='-27.38050431273' lon='153.06776822587'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='9A' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='First Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650514' action='modify' visible='true' lat='-27.38090509533' lon='153.06734320178'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='10' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='First Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650515' action='modify' visible='true' lat='-27.38097756138' lon='153.06740453288'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='8A' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='First Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650516' action='modify' visible='true' lat='-27.37966399181' lon='153.06884467736'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='14' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='George Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650517' action='modify' visible='true' lat='-27.38057677869' lon='153.06782935476'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='9' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='First Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650518' action='modify' visible='true' lat='-27.37959179718' lon='153.06878344735'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='14A' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='George Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650519' action='modify' visible='true' lat='-27.38079426663' lon='153.06801284309'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='5A' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='First Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650520' action='modify' visible='true' lat='-27.38119514' lon='153.0675883245'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='First Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650521' action='modify' visible='true' lat='-27.381267624' lon='153.06764963571'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='4' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='First Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650522' action='modify' visible='true' lat='-27.38239487585' lon='153.06513785719'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='12A' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Meadfoot Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650523' action='modify' visible='true' lat='-27.38086673243' lon='153.06807407344'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='5' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='First Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650524' action='modify' visible='true' lat='-27.38246336918' lon='153.06520199691'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='12' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Meadfoot Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650525' action='modify' visible='true' lat='-27.38253929486' lon='153.06526128658'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='10' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Meadfoot Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650526' action='modify' visible='true' lat='-27.3811707971' lon='153.06820712967'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='First Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650527' action='modify' visible='true' lat='-27.38472981543' lon='153.06590147762'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='44' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Toombul Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650528' action='modify' visible='true' lat='-27.37953683681' lon='153.06725893879'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='22' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Wellington Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650529' action='modify' visible='true' lat='-27.37942679569' lon='153.06742230255'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='26' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Wellington Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650530' action='modify' visible='true' lat='-27.37948199679' lon='153.06734072195'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='24' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Wellington Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650531' action='modify' visible='true' lat='-27.38392898538' lon='153.0654062422'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='4' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Walter Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650532' action='modify' visible='true' lat='-27.38441785012' lon='153.06580460561'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Walter Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650533' action='modify' visible='true' lat='-27.38350425396' lon='153.06627697843'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='14' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Walter Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650534' action='modify' visible='true' lat='-27.38414549143' lon='153.06633652571'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='11' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Walter Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650535' action='modify' visible='true' lat='-27.38196040313' lon='153.06483721175'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='21' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Wellington Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650536' action='modify' visible='true' lat='-27.38344923422' lon='153.0663582592'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='16' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Walter Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650537' action='modify' visible='true' lat='-27.3787775918' lon='153.0692335679'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='77' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Wellington Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650538' action='modify' visible='true' lat='-27.38406327788' lon='153.06645814428'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='15' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Walter Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650539' action='modify' visible='true' lat='-27.38393995743' lon='153.06664042009'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='17A' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Walter Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650540' action='modify' visible='true' lat='-27.38399479663' lon='153.0665594424'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='17' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Walter Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650541' action='modify' visible='true' lat='-27.38329790764' lon='153.06658066841'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='20' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Walter Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650542' action='modify' visible='true' lat='-27.38338146618' lon='153.06645969884'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='18' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Walter Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650543' action='modify' visible='true' lat='-27.38372078058' lon='153.06696463357'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='23' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Walter Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650544' action='modify' visible='true' lat='-27.38377552974' lon='153.06688355501'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='21' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Walter Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650545' action='modify' visible='true' lat='-27.37866909226' lon='153.06939674751'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='22' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Taylor Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650546' action='modify' visible='true' lat='-27.3836659411' lon='153.067045712'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='25' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Walter Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650547' action='modify' visible='true' lat='-27.38190421038' lon='153.06491889596'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='21A' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Wellington Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650548' action='modify' visible='true' lat='-27.38311956597' lon='153.06684634697'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='24' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Walter Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650549' action='modify' visible='true' lat='-27.38355368688' lon='153.06721224626'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='29' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Walter Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650550' action='modify' visible='true' lat='-27.38361110162' lon='153.06712668921'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='27' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Walter Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650551' action='modify' visible='true' lat='-27.38240511476' lon='153.06790096123'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='40A' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Walter Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650552' action='modify' visible='true' lat='-27.38246022551' lon='153.06782004613'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='40' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Walter Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650553' action='modify' visible='true' lat='-27.38409655226' lon='153.06551022855'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='2' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Walter Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650554' action='modify' visible='true' lat='-27.38017321676' lon='153.06876358028'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='7' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Kia-Ora Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650555' action='modify' visible='true' lat='-27.38010080535' lon='153.06870251172'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='7A' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Kia-Ora Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650556' action='modify' visible='true' lat='-27.38251878267' lon='153.06874078844'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='53' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Walter Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650557' action='modify' visible='true' lat='-27.38062079188' lon='153.06902377062'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Kia-Ora Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650558' action='modify' visible='true' lat='-27.3826032473' lon='153.06861696988'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='51' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Walter Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650559' action='modify' visible='true' lat='-27.38051246436' lon='153.06918652849'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='136' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='St Vincents Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650560' action='modify' visible='true' lat='-27.3794316221' lon='153.06826550882'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='67' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Wellington Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650561' action='modify' visible='true' lat='-27.38338587957' lon='153.0674597263'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='33' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Walter Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650562' action='modify' visible='true' lat='-27.37815516679' lon='153.06727762164'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='35' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Downfall Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650563' action='modify' visible='true' lat='-27.38283068792' lon='153.06727210638'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='32' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Walter Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650564' action='modify' visible='true' lat='-27.37800254996' lon='153.06736440113'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='37' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Downfall Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650565' action='modify' visible='true' lat='-27.37954130133' lon='153.06810572576'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='21' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Kia-Ora Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650566' action='modify' visible='true' lat='-27.3827483381' lon='153.0673937733'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='34' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Walter Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650567' action='modify' visible='true' lat='-27.37858836861' lon='153.06713333591'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='31' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Downfall Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650568' action='modify' visible='true' lat='-27.38333103078' lon='153.06754077389'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='33A' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Walter Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650569' action='modify' visible='true' lat='-27.37835364936' lon='153.06716579908'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='33' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Downfall Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650570' action='modify' visible='true' lat='-27.38267967554' lon='153.06749517068'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='36' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Walter Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650571' action='modify' visible='true' lat='-27.38324872585' lon='153.06766249175'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='35' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Walter Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650572' action='modify' visible='true' lat='-27.3830566324' lon='153.0679465668'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='39' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Walter Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650573' action='modify' visible='true' lat='-27.37948253729' lon='153.06679838823'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='21' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Downfall Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650574' action='modify' visible='true' lat='-27.38262474542' lon='153.06757634916'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='36A' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Walter Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650575' action='modify' visible='true' lat='-27.37875513232' lon='153.06699016285'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='29' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Downfall Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650576' action='modify' visible='true' lat='-27.38294697024' lon='153.06810882278'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='41' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Walter Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650577' action='modify' visible='true' lat='-27.37995769778' lon='153.0665097768'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='9' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Downfall Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650578' action='modify' visible='true' lat='-27.38300176523' lon='153.06802770492'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='39A' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Walter Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650579' action='modify' visible='true' lat='-27.37985195801' lon='153.0666099566'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='11' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Downfall Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650580' action='modify' visible='true' lat='-27.38289203981' lon='153.06818990003'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='43' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Walter Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650581' action='modify' visible='true' lat='-27.3800882298' lon='153.06659664739'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='7' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Downfall Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650582' action='modify' visible='true' lat='-27.38233640667' lon='153.0680023984'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='42' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Walter Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650583' action='modify' visible='true' lat='-27.38217093773' lon='153.06824680146'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='46' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Walter Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650584' action='modify' visible='true' lat='-27.38022569418' lon='153.06647779689'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Downfall Road' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650585' action='modify' visible='true' lat='-27.38225401104' lon='153.0681241249'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='44' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Walter Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650586' action='modify' visible='true' lat='-27.38208637355' lon='153.06837175247'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='48' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Walter Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+  <node id='-3650587' action='modify' visible='true' lat='-27.38269996333' lon='153.06847397326'>
+    <tag k='addr:city' v='Brisbane' />
+    <tag k='addr:housenumber' v='47' />
+    <tag k='addr:postcode' v='4014' />
+    <tag k='addr:street' v='Walter Street' />
+    <tag k='addr:suburb' v='Virginia' />
+    <tag k='source' v='Brisbane City Council' />
+    <tag k='source:date' v='2018-12-14' />
+  </node>
+</osm>
